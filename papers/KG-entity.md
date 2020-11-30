@@ -8,7 +8,7 @@ AAAI 2020. _Mayhew et al._ [[Paper](https://arxiv.org/pdf/1912.07095)]
 
 __Multi-grained Named Entity Recognition__. ACL 2019. _Xia, Congying and Zhang, Chenwei and Yang, Tao and Li, Yaliang and Du, Nan and Wu, Xian and Fan, Wei and Ma, Fenglong and Philip, S Yu_. [[Paper](https://arxiv.org/abs/1906.08449)]
 
-__Neural architectures for named entity recognition__. NAACL 2017. _Lample, Guillaume and Ballesteros, Miguel and Subramanian, Sandeep and Kawakami, Kazuya and Dyer, Chris_. [[Paper](https://arxiv.org/pdf/1603.01360)] [[Cdde](https://github.com/glample/tagger)] [[Code](https://github.com/clab/stack-lstm-ner)]
+__Neural architectures for named entity recognition__. NAACL 2017. _Lample, Guillaume and Ballesteros, Miguel and Subramanian, Sandeep and Kawakami, Kazuya and Dyer, Chris_. [[Paper](https://arxiv.org/pdf/1603.01360)] [[Code](https://github.com/glample/tagger)] [[Code](https://github.com/clab/stack-lstm-ner)]
 
 __Named entity recognition with bidirectional LSTM-CNNs__. TACL 2016. _Chiu, Jason PC and Nichols, Eric_. [[Paper](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00104)]
 
